@@ -1,0 +1,13 @@
+[2016-08-31 10:17:08.251482] [error] FormFiller - Error processing record(s): No result was received from formFiller Class
+[2016-08-31 10:17:36.918982] [error] formFiller.php - Error processing record(s): No result was received from formFiller Class
+[2016-08-31 10:20:03.329408] [error] formFiller.php - Error processing record(s): No result was received from formFiller Class
+[2016-08-31 10:20:59.736604] [error] Unable To Connect to Database: Can't connect to MySQL server on '190.141.194.108' (111)
+[2016-08-31 10:20:59.736917] [error] formFiller.php - Error processing record(s): No result was received from formFiller Class
+[2016-08-31 10:22:13.749624] [error] Dbconn.php - Unable To Connect to Database: Can't connect to MySQL server on '190.141.194.108' (111)
+[2016-08-31 10:22:13.749914] [error] formFiller.php - Error processing record(s): No result was received from formFiller Class
+[2016-08-31 10:22:36.354963] [error] Dbconn.php - Unable To Connect to Database: Can't connect to MySQL server on '190.141.194.108' (111)
+[2016-08-31 10:22:36.355226] [error] formFiller.php - Error processing record(s): No result was received from formFiller Class
+[2016-08-31 10:23:28.283720] [error] Dbconn.php - Unable To Connect to Database: Access denied for user 'portabilidad'@'190.218.42.2' (using password: YES)
+[2016-08-31 10:23:28.283984] [error] formFiller.php - Error processing record(s): No result was received from formFiller Class
+[2016-08-31 10:37:44.915858] [info] 2 record(s) were processed correctly
+[2016-08-31 10:45:55.200517] [info] 2 record(s) were processed correctly

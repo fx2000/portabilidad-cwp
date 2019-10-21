@@ -1,0 +1,7 @@
+{
+    "require": {
+        "katzgrau/klogger": "dev-master",
+        "phpmailer/phpmailer": "^5.2",
+        "mikehaertl/php-pdftk": "^0.3.1"
+    }
+}
